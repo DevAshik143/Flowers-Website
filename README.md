@@ -1,2 +1,2 @@
-# Flowers-Website
-This project is a simple yet elegant website showcasing various types of flowers, their details, and images. It provides an interactive and visually appealing way to explore the beauty of nature. Built with HTML, CSS, and JavaScript, this site offers a user-friendly interface for flower enthusiasts.
+# Flower-Website
+"Explore the beauty of nature with our 'Flower Website' project. Built with HTML, CSS, and JavaScript, this website showcases a variety of flowers with vibrant design and smooth user experience. Ideal for floral businesses or enthusiasts, it combines aesthetics with functionality."
